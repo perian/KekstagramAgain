@@ -6,7 +6,7 @@
   "author": "perian",
   "repository": {
     "type": "git",
-    "url": "git@github.com:KekstagrmAgain.git"
+    "url": "git@github.com:perian/KekstagramAgain.git"
   },
   "devDependencies": {
     "eslint": "2.4.0"
@@ -15,6 +15,6 @@
     "test": "eslint build/js"
   },
   "engines": {
-    "node": "^5.0.0"
+    "node": "6.5"
   }
 }
